@@ -1,14 +1,14 @@
 # Summary
 
-## Use headings to create page groups like this one
+## 제품 소개 및 사용법
 
-* [First page's title](page1/README.md)
-    * [Some child page](page1/page1-1.md)
-    * [Some other child page](part1/page1-2.md)
-* [Second page's title](page2/README.md)
-    * [Some child page](page2/page2-1.md)
-    * [Some other child page](part2/page2-2.md)
+* [Zumi](zumi/README.md)
+    * [Some child page]
+    * [Some other child page]
+* [CoDrone](CoDrone/README.md)
+    * [Some child page]
+    * [Some other child page]
     
-## A second page group
+## 알면 좋은 상식
 
-* [Yet another page](another-page.md)
+* [라즈베리파이]
