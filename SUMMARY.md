@@ -12,3 +12,7 @@
 ## 알면 좋은 상식
 
 * [라즈베리파이](rasp/README.md)
+
+## Friend Site
+
+* [PinkWink](https://pinkwink.kr)
