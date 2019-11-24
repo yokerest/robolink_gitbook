@@ -4,6 +4,34 @@
 
 # 준비과정
 
+앞 선 글에서 수행했던 마지막 화면이 기억나시나요?
+
+![Zumi에서 Python 시작해보기](./img/011.jpg)
+
+완전히 빈 새로운 화면이었습니다. 우리는 여기서 부터 시작해보려고 합니다.
+
+![Jupyter notebook에서 파일 제목 부분](./hello_world/002.jpg)
+
+화면 상단에 **untitled**라고 되어 있는 부분이 있습니다. 여기를 클릭합니다.
+
+![Jupyter notebook 이름 변경하기](./hello_world/003.jpg)
+
+여기에 **Hello World**라고 입력해서 문서의 이름을 변경하도록 합니다. 이 이름은 **Hello World.ipynb**이라는 이름으로 **주미**에 저장됩니다.
+
+```python
+print('Hello! World')
+```
+
+이제 정말 간단한 코드하나를 입력해 보겠습니다. print는 Jupyter Notebook 화면에 글자를 출력하는 명령입니다.
+
+![Hello World를 입력한 화면](./hello_world/004.jpg)
+
+Jupyter Notebook에는 이렇게 입력하면 됩니다. 그리고 실행은 키보드에서 <SHIFT>키와 <ENTER>키를 누르면 됩니다.
+
+![Hello World를 입력한 화면](./hello_world/005.jpg)
+
+그러면 위 그림처럼 실행되는 것을 확인할 수 있습니다. 이제 앞으로 주미의 Jupyter Notebook 화면에서 **실행**한다고 말하면 그것은 <SHIFT>키와 <ENTER>키를 눌러서 실행한 것이라고 생각하면 됩니다.
+
 # 오늘의 목표
 
 ![주미 뒷면의 브레이트 LED](./hello_world/001.jpg)
@@ -16,17 +44,23 @@
 
 Python은 비슷한 기능을 모아서 모듈로 만들고 그 모듈을 사용자들이 임포트(import)라는 과정을 거쳐서 사용할 수 있게 하고 있습니다. 그래서 우리는 주미를 사용하기 위해서는 일단 zumi 모듈을 import 해야합니다.
 
-``` python
+``` py
 import time
 ```
 
 Python에서 모듈을 import하는 가장 간단한 방법은 위 코드처럼 import 명령 뒤에 원하는 모듈명을 적는 것입니다. 만약 time 모듈안에 sleep이라는 초(second) 단위로 멈출 수 있는 함수를 사용하고 싶다면
 
-``` python
+``` py
 time.sleep(1)
 ```
 
-위 코드처럼 사용하면 코드가 실행되는 중간에 1초를 멈추게 됩니다.
+위 코드처럼 사용하면 코드가 실행되는 중간에 1초 동안 멈추게 됩니다.
+
+``` py
+from zumi.zumi import Zumi
+
+zumi = Zumi()
+```
 
 # 실행 결과
 
