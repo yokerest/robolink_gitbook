@@ -4,7 +4,6 @@
 
 * [Zumi](zumi/README.md)
     * [Hello World](zumi/hello_world.md)
-    * [Hello World2](zumi/teenage_mental.ipynb)
 * [CoDrone](codrone/README.md)
     
 ## Common Sense
