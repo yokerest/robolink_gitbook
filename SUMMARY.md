@@ -4,11 +4,6 @@
 
 * [Zumi](zumi/README.md)
     * [Hello World](zumi/hello_world.md)
-* [CoDrone](codrone/README.md)
-    
-## Common Sense
-
-* [라즈베리파이](rasp/README.md)
 
 ## Friend Site
 
