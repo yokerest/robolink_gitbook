@@ -50,4 +50,5 @@ Learn 항목에는 주미로 할 수 있는 정말 많은 일들을 보여주고
 
 # 자료
 
-[Zumi 공식 한글 매뉴얼](./pdf/Zumi_userguide_v1.pdf)
+* Zumi 공식 한글 매뉴얼 [매뉴얼 다운로드 받기](./pdf/Zumi_userguide_v1.pdf)
+* Zumi 퀵스타트 영문 매뉴얼 [매뉴얼 다운로드 받기](./pdf/build_guide-compressed.pdf)
