@@ -26,11 +26,11 @@ print('Hello! World')
 
 ![Hello World를 입력한 화면](./hello_world/004.jpg)
 
-Jupyter Notebook에는 이렇게 입력하면 됩니다. 그리고 실행은 키보드에서 <SHIFT>키와 <ENTER>키를 누르면 됩니다.
+Jupyter Notebook에는 이렇게 입력하면 됩니다. 그리고 실행은 키보드에서 SHIFT키와 ENTER키를 누르면 됩니다.
 
 ![Hello World를 입력한 화면](./hello_world/005.jpg)
 
-그러면 위 그림처럼 실행되는 것을 확인할 수 있습니다. 이제 앞으로 주미의 Jupyter Notebook 화면에서 **실행**한다고 말하면 그것은 <SHIFT>키와 <ENTER>키를 눌러서 실행한 것이라고 생각하면 됩니다.
+그러면 위 그림처럼 실행되는 것을 확인할 수 있습니다. 이제 앞으로 주미의 Jupyter Notebook 화면에서 **실행**한다고 말하면 그것은 SHIFT키와 ENTER키를 눌러서 실행한 것이라고 생각하면 됩니다.
 
 # 오늘의 목표
 
@@ -80,4 +80,4 @@ zumi.brake_lights_off()
 
 ![주미의 LED 테스트](./hello_world/008.jpg)
 
-여러분들은 위 코드를 하나씩 입력해서 실행(<SHIFT>+<ENTER>)하면서 주미의 어떤 LED가 꺼지고 켜지는지를 확인해보세요.
+여러분들은 위 코드를 하나씩 입력해서 실행(SHIFT+ENTER)하면서 주미의 어떤 LED가 꺼지고 켜지는지를 확인해보세요.
